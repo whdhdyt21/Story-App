@@ -1,0 +1,5 @@
+<resources>
+    <style
+        name="Base.Theme.StoryApp" parent="Theme.Material3.DynamicColors.DayNight">
+    </style>
+</resources>
