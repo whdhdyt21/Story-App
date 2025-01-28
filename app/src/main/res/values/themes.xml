@@ -1,5 +1,7 @@
 <resources>
-    <style
-        name="Base.Theme.StoryApp" parent="Theme.Material3.DynamicColors.DayNight">
+    <style name="Base.Theme.LoginWithAnimation" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/colorNavy</item>
+        <item name="colorPrimaryVariant">@color/colorGray</item>
     </style>
+    <style name="Theme.LoginWithAnimation" parent="Base.Theme.LoginWithAnimation" />
 </resources>
