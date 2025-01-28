@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <paths>
-    <external-files-path
-        name="my_images"
-        path="Pictures" />
+    <cache-path
+        name="cache_files"
+        path="/" />
+    <external-path
+        name="external_files"
+        path="Android/data/com.dicoding.picodiploma.loginwithanimation/files/" />
 </paths>
